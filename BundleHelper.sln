@@ -1,15 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundleCompress", "BundleCompress\BundleCompress.csproj", "{AB518EB6-A64F-4675-9B5F-A75F03AFEC32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BundleCompress", "BundleCompress\BundleCompress.csproj", "{AB518EB6-A64F-4675-9B5F-A75F03AFEC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundleHelper", "BundleHelper\BundleHelper.csproj", "{CB2FFB1C-6E0C-4882-83D3-86796356F33C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BundleHelper", "BundleHelper\BundleHelper.csproj", "{CB2FFB1C-6E0C-4882-83D3-86796356F33C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetExtractor", "AssetExtractor\AssetExtractor.csproj", "{38EE3194-97A9-448E-B29D-D5CEF888A23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssetExtractor", "AssetExtractor\AssetExtractor.csproj", "{38EE3194-97A9-448E-B29D-D5CEF888A23F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetImporter", "AssetImportor\AssetImporter.csproj", "{B838D1DF-45CD-4046-B80F-8F6A6D76416C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssetImporter", "AssetImportor\AssetImporter.csproj", "{B838D1DF-45CD-4046-B80F-8F6A6D76416C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
